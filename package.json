@@ -46,7 +46,7 @@
     "vstene",
     "zlodes"
   ],
-  "dependencies": {
+  "peerDependencies": {
     "angular": "^1.5.7",
     "chosen-js": "^1.6.1",
     "jquery": "^3.0.0"
